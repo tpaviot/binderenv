@@ -1,0 +1,11 @@
+dependencies:
+  - pip
+  - pip:
+    - matplotlib
+    - scikit-learn
+    - lazypredict
+    - statsmodels
+    - pandas
+    - seaborn
+    - tiktoken
+    - transformers  

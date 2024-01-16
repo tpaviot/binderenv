@@ -1,5 +1,4 @@
 dependencies:
-  - pip
   - pip:
     - matplotlib
     - scikit-learn
@@ -8,4 +7,5 @@ dependencies:
     - pandas
     - seaborn
     - tiktoken
+    - torch
     - transformers  
